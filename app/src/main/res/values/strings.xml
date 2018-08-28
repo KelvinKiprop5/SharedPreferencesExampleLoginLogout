@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SharedPreferencesExampleLoginLogout</string>
+
+
+
+    <string name="user_name">Kelvin</string>
+    <string name="user_password">kelvin33</string>
+
+    <string name="login_preference">com.masterpiecenet.sharedpreferencesexampleloginlogout_login_preference</string>
+    <string name="login_preference_status">SharedPreferencesExampleLoginLogout_login_preference_status</string>
+
+
+</resources>
